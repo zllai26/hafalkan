@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #18181b;
+    color: #e4e4e7;
+}
+
+#accept {
+    border-radius: 10%;
+    width: 70px;
+    height: 25px;
+    background-color: #2e51c7;
+    color: white;
+    border: none;
+}
+
+#accept:hover {
+    border-radius: 10%;
+    width: 70px;
+    height: 25px;
+    background-color: #162e7a;
+    color: white;
+}
+
+.register {
+  width: 500px;
+  margin: 0 auto;
+}
