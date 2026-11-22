@@ -15,7 +15,7 @@ A word saver program that save and retrieve words from a database
 
 ## Try it
 
-**[Open jsTimer](https://hafalkan.lab26.my)**
+**[Open hafalkan](https://hafalkan.lab26.my)**
 
 ## Run locally
 
