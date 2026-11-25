@@ -48,6 +48,7 @@ function check() {
         alert(`You got this wrong. The answer is ${words[currentIndex].trans}`);
     }
     currentIndex++;
+    document.getElementById('trans').value=("");
     if (currentIndex < words.length) {
         document.getElementById('vocab').textContent = words[currentIndex].vocab;
         document.getElementById('answer-input').value = '';
