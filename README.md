@@ -3,7 +3,7 @@
 A word saver program that save and retrieve words from a database
 
 ![hafalkan screenshot 1](screenshots/hafalkan1.png)
-![hafalkan screenshot 2](screenshots/images1.png)
+![hafalkan screenshot 2](screenshots/hafalkan2.png)
 
 
 ## Features
